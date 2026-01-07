@@ -16,7 +16,7 @@
     "ios/Sources",
     "ios/Tests",
     "Package.swift",
-    "SendIntent.podspec"
+    "MindlibCapacitorSendIntent.podspec"
   ],
   "author": "Carsten Klaffke",
   "license": "MIT",
