@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "SendIntent",
+    name: "MindlibCapacitorSendIntent",
     platforms: [.iOS(.v15)],
     products: [
         .library(
-            name: "SendIntent",
+            name: "MindlibCapacitorSendIntent",
             targets: ["SendIntentPlugin"])
     ],
     dependencies: [
